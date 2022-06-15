@@ -1,0 +1,15 @@
+{
+  "name": "p-dev.js",
+  "version": "1.0.0",
+  "description": "The official p-dev.cf API wrapper",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Platin Developmentstudios",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
