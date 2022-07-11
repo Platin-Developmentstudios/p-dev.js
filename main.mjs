@@ -10,7 +10,7 @@ export default class PDevClient {
      */
     generateLink(longURL) {
         const options = {
-            url: "https://p-dev.cf/",
+            url: `${baseURL}`,
             headers: {
                 "Content-Type": "application/json",
             },
